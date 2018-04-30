@@ -11,10 +11,10 @@ TypeScript Quick Start
 
 #### 1. [타입스크립트 소개](http://1ilsang.blog.me/221264694492)
 ```javascript
-tsc, ts-node, ES history, *Typescript Architecture, 
+tsc, ts-node, ES history, *Typescript Architecture
 ```
 
 #### 2. [개발 환경 구축]()
 ```javascript
-
+-t, --out, -watch, tsconfig.json
 ```
