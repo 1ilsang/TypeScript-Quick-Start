@@ -11,7 +11,7 @@ TypeScript Quick Start
 
 #### 1. [타입스크립트 소개](http://1ilsang.blog.me/221264694492)
 ```javascript
-tsc, ts-node, ES history, *Typescript Architecture
+tsc, ts-node, ES history, *Architecture
 ```
 
 #### 2. [개발 환경 구축](http://1ilsang.blog.me/221264821276)
@@ -24,7 +24,7 @@ tsc, ts-node, ES history, *Typescript Architecture
 var, let, const, 타입 계층도, Tuple, Union, Intersection
 ```
 
-#### 4. [제어문]()
+#### 4 ~ 5. [제어문, 연산자]()
 ```javascript
 Fall-throughs
 ```
