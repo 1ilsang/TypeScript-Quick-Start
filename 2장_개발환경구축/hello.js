@@ -1,2 +1,3 @@
-let hello = "1ilsang.blog.me";
+"use strict";
+var hello = "1ilsang.blog.me";
 console.log(hello);

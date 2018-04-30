@@ -18,3 +18,13 @@ tsc, ts-node, ES history, *Typescript Architecture
 ```javascript
 -t, --out, -watch, tsconfig.json
 ```
+
+#### 3. [변수 선언과 기본 타입](http://1ilsang.blog.me/221264995827)
+```javascript
+var, let, const, 타입 계층도, Tuple, Union, Intersection
+```
+
+#### 4. [제어문]()
+```javascript
+...
+```
