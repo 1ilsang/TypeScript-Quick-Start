@@ -31,5 +31,5 @@ Fall-throughs, Arithmetic, Destructuring, ?, Spread
 
 #### 6. [함수]()
 ```javascript
-공부중
+나머지 매개변수, 선택 매개변수, 함수 오버로드
 ```
