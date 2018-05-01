@@ -28,3 +28,8 @@ var, let, const, 타입 계층도, Tuple, Union, Intersection
 ```javascript
 Fall-throughs, Arithmetic, Destructuring, ?, Spread
 ```
+
+#### 6. [함수]()
+```javascript
+공부중
+```
