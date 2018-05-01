@@ -26,5 +26,5 @@ var, let, const, 타입 계층도, Tuple, Union, Intersection
 
 #### 4 ~ 5. [제어문, 연산자]()
 ```javascript
-Fall-throughs, Arithmetic, Destructuring, ?, 
+Fall-throughs, Arithmetic, Destructuring, ?, Spread
 ```

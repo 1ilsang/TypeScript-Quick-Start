@@ -8,3 +8,8 @@ let [firstItem, ...rest]: [number, number, number] = [10, 20, 30];
 console.log("2번 : ", firstItem);
 console.log("3번 : ", rest);
 console.log("4번 : ", rest[0]);
+
+let { a, b, ...c } = { a: 10, b: 20, c: 30, d: 40 };
+console.log(a);
+console.log(b);
+console.log(c);
