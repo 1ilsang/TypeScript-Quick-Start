@@ -24,7 +24,7 @@ tsc, ts-node, ES history, *Architecture
 var, let, const, 타입 계층도, Tuple, Union, Intersection
 ```
 
-#### 4 ~ 5. [제어문, 연산자]()
+#### 4 ~ 5. [제어문, 연산자](http://1ilsang.blog.me/221265808714)
 ```javascript
 Fall-throughs, Arithmetic, Destructuring, ?, Spread
 ```
