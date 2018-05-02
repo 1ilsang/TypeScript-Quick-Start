@@ -34,8 +34,13 @@ Fall-throughs, Arithmetic, Destructuring, ?, Spread
 나머지 매개변수, 선택 매개변수, 함수 오버로드, Callback, Arrow
 ```
 
-#### 7. [클래스와 인터페이스]()
+#### 7. [클래스와 인터페이스](http://1ilsang.blog.me/221266664634)
 ```javascript
 IS-A, HAS-A, Private, Abstract, Interface, Overloading, Overriding, Polymorphism
-Getter, Setter, Static, Singleton, ReadOnly, TypeAliasing.
+Getter, Setter, Static, Singleton, ReadOnly, TypeAliasing
+```
+
+#### 8. [모듈]()
+```javascript
+공부중
 ```
