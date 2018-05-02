@@ -50,3 +50,12 @@ var numberOfWheel = 2;
 var mountainBike = new MountainBike(numberOfWheel, hasBackSaddle);
 console.log("자전거의 안장 유무 : " + mountainBike.getHasBackSaddle());
 console.log("자전거의 바퀴 개수 : " + mountainBike.getNumberOfWheel());
+//Type aliasing
+var emotion = { name: "sad" };
+function aliasing(pEmotion) {
+    pEmotion.name = "happy";
+}
+console.log(emotion.name); // sad
+// emotion.name = "happy"; // 에러
+aliasing(emotion);
+console.log(emotion.name); // happy
