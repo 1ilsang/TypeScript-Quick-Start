@@ -11,4 +11,4 @@ var num2 = 50;
 num2.noMethods();
 var number2 = 50;
 console.log(typeof number2);
-// console.log(number2.toFixed(1)); 
+// console.log(number2.toFixed(1));

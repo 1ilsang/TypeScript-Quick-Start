@@ -6,4 +6,4 @@ var unusable = undefined;
 // var person = {
 //     name: "lee"
 // }
-// person = null; 
+// person = null;

@@ -18,4 +18,4 @@ switch (input) {
 //     "compilerOptions":{
 //         "noFallthroughCasesInSwitch" : false
 //     }
-// } 
+// }
