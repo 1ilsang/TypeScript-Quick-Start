@@ -37,5 +37,5 @@ Fall-throughs, Arithmetic, Destructuring, ?, Spread
 #### 7. [클래스와 인터페이스]()
 ```javascript
 IS-A, HAS-A, Private, Abstract, Interface, Overloading, Overriding, Polymorphism
-getter, setter
+Getter, Setter, Static
 ```
