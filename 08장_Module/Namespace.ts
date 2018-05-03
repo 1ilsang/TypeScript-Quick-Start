@@ -12,6 +12,5 @@ namespace MyInfo2 {
     }
 }
 
-
 console.log(MyInfo1.getName2());
 console.log(MyInfo2.getName());
