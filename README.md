@@ -42,5 +42,5 @@ Getter, Setter, Static, Singleton, ReadOnly, TypeAliasing
 
 #### 8. [모듈]()
 ```javascript
-공부중
+Namespace, 
 ```
