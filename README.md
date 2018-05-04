@@ -40,7 +40,7 @@ IS-A, HAS-A, Private, Abstract, Interface, Overloading, Overriding, Polymorphism
 Getter, Setter, Static, Singleton, ReadOnly, TypeAliasing
 ```
 
-#### 8. [모듈]()
+#### 8. [모듈](http://1ilsang.blog.me/221268099074)
 ```javascript
-Namespace, 
+Namespace, SystemJS
 ```
