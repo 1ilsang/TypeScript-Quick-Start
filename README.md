@@ -49,3 +49,8 @@ Namespace, SystemJS
 ```javascript
 Union, Lookup, Non-nullable, Never, this, fluent interface pattern
 ```
+
+#### 10. [타입 선언과 변경, 타입 호환]()
+```javascript
+추가중
+```
