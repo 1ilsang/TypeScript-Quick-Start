@@ -45,7 +45,7 @@ Getter, Setter, Static, Singleton, ReadOnly, TypeAliasing
 Namespace, SystemJS
 ```
 
-#### 9. [고급 타입]()
-```angular2html
+#### 9. [고급 타입](http://1ilsang.blog.me/221270812268)
+```javascript
 Union, Lookup, Non-nullable, Never, this, fluent interface pattern
 ```
