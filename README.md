@@ -47,5 +47,5 @@ Namespace, SystemJS
 
 #### 9. [고급 타입]()
 ```angular2html
-Union, Lookup
+Union, Lookup, Non-nullable
 ```
