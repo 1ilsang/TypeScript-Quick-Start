@@ -47,5 +47,5 @@ Namespace, SystemJS
 
 #### 9. [고급 타입]()
 ```angular2html
-Union, Lookup, Non-nullable, Never, this
+Union, Lookup, Non-nullable, Never, this, fluent interface pattern
 ```
