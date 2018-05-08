@@ -44,3 +44,8 @@ Getter, Setter, Static, Singleton, ReadOnly, TypeAliasing
 ```javascript
 Namespace, SystemJS
 ```
+
+#### 9. [고급 타입]()
+```angular2html
+Union, Lookup
+```
