@@ -52,5 +52,5 @@ Union, Lookup, Non-nullable, Never, this, fluent interface pattern
 
 #### 10. [타입 선언과 변경, 타입 호환]()
 ```javascript
-Alias, Inference, Casting, Conversion, Assertion, ...
+Alias, Inference, Casting, Conversion, Assertion, Duck / Structural / Nominal typing, 
 ```
