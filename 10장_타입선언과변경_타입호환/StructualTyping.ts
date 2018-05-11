@@ -12,4 +12,4 @@ let animal: Animal = new Animal("happy", 100);
 let bird: Bird = new Bird(10);
 
 animal = bird; // 타입 호환이 가능
-bird = animal; // 타입 호환이 가능
+// bird = animal; // 타입 호환이 가능

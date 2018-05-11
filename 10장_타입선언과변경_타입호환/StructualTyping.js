@@ -12,4 +12,4 @@ var Bird = /** @class */ (function () {
 var animal = new Animal("happy", 100);
 var bird = new Bird(10);
 animal = bird; // 타입 호환이 가능
-bird = animal; // 타입 호환이 가능
+// bird = animal; // 타입 호환이 가능
