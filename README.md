@@ -57,4 +57,4 @@ Union, Lookup, Non-nullable, Never, this, fluent interface pattern
 Alias, Inference, Casting, Conversion, Assertion, Duck / Structural / Nominal typing, 
 ```
 - - -
-#### [목차 가기](./../../../)
+#### [목차 가기](./../../../Study)
