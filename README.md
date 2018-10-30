@@ -4,6 +4,7 @@ TypeScript Quick Start
 <img width="30%" src="quickTypeScript.jpg"></img>
 
 >TypeScript 퀵 스타트 책을 공부하며 내용, 생각을 정리한 글입니다.
+>
 >책 없이 보시면 도움이 되지 않습니다.
 >
 >링크를 클릭하면 상세 정리 페이지로 이동합니다.
@@ -56,4 +57,4 @@ Union, Lookup, Non-nullable, Never, this, fluent interface pattern
 Alias, Inference, Casting, Conversion, Assertion, Duck / Structural / Nominal typing, 
 ```
 - - -
-#### [목차 가기](./../../../
+#### [목차 가기](./../../../)
