@@ -37,25 +37,10 @@ Fall-throughs, Arithmetic, Destructuring, ?, Spread
 나머지 매개변수, 선택 매개변수, 함수 오버로드, Callback, Arrow
 ```
 
-#### 7. [클래스와 인터페이스](http://1ilsang.blog.me/221266664634)
+#### 7. 클래스와 인터페이스
 ```javascript
-IS-A, HAS-A, Private, Abstract, Interface, Overloading, Overriding, Polymorphism
-Getter, Setter, Static, Singleton, ReadOnly, TypeAliasing
+이후 내용은 비공개
 ```
 
-#### 8. [모듈](http://1ilsang.blog.me/221268099074)
-```javascript
-Namespace, SystemJS
-```
-
-#### 9. [고급 타입](http://1ilsang.blog.me/221270812268)
-```javascript
-Union, Lookup, Non-nullable, Never, this, fluent interface pattern
-```
-
-#### 10. [타입 선언과 변경, 타입 호환]()
-```javascript
-Alias, Inference, Casting, Conversion, Assertion, Duck / Structural / Nominal typing, 
-```
 - - -
 #### [목차 가기](./../../../Study)
